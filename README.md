@@ -1,4 +1,4 @@
-# secret-dairy
+# Secret Dairy
 ![alt text](secret.png)
 
 ## PHP, MySQL, HTML, CSS, Javascript, jQuery, Bootstrap
